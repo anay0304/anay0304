@@ -74,7 +74,7 @@
 
 - 📧 **Email:** anaypradhan3849@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/anay-pradhan](https://linkedin.com/in/anay-pradhan)  
-- 🌐 **GitHub:** [github.com/anaypradhan](https://github.com/anaypradhan)
+
 
 ---
 
