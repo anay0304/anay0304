@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anay Pradhan</h1>
-<h3 align="center">Junior Computer Science major at ASU | Aspiring Software Developer</h3>
+<h3 align="center">Senior Computer Science major at ASU | Aspiring Software Developer</h3>
 
 ---
 
