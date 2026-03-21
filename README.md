@@ -90,7 +90,7 @@ My focus lies at the intersection of:
 - Built an AI-powered chatbot using OpenAI API with a secure backend and responsive frontend  
 - Designed structured prompt flows for safe, contextual, and user-aware responses  
 - Collaborated in Agile development cycles including sprint planning and iterative testing  
-- 🏆 **2nd Place – WiCS Hacks 2025**
+- 🏆 **2nd Place – WiCS Hacks 2025 (Most Aesthetic Design)**
 
 ---
 
