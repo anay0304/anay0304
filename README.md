@@ -17,7 +17,7 @@ Building AI-powered systems for behavior change, health, and real-world impact
 
 ### 🚀 Currently Building
 
-- 🧠 **AI Nutrition Coach**  
+- 🧠 **AI Nutrition Coach (Behavior-Driven AI System)**  
   Designing an AI system that goes beyond generic advice by using structured prompts and curated knowledge to drive real behavior change  
 
 - 📊 Building prompt frameworks + knowledge bases for **personalized coaching experiences**  
@@ -74,6 +74,16 @@ My focus lies at the intersection of:
 
 ### 📌 Projects
 
+#### 🧠 AI Nutrition Coach (In Progress)  
+[GitHub](YOUR_REPO_LINK_HERE)
+
+- Building an AI-powered coaching system focused on **real behavior change**, not generic responses  
+- Designing structured prompt systems and curated knowledge base for personalized guidance  
+- Integrating principles from **nutrition coaching (PN-L1)** and **behavior psychology**  
+- Actively developing with continuous improvements and feature iterations  
+
+---
+
 #### 🧠 SERA – AI Sexual Health Chatbot  
 [Frontend](https://github.com/rahulbaweja7/AI-SexDoc-FrontEnd.git) | [Backend](https://github.com/rahulbaweja7/Ai-SexDoc-BackEnd.git)
 
@@ -81,15 +91,6 @@ My focus lies at the intersection of:
 - Designed structured prompt flows for safe, contextual, and user-aware responses  
 - Collaborated in Agile development cycles including sprint planning and iterative testing  
 - 🏆 **2nd Place – WiCS Hacks 2025**
-
----
-
-#### 🖥️ Help System Management App  
-[GitHub](https://github.com/devyanshnegi/CSE-360-PROJECT.git)
-
-- Developed a JavaFX-based application supporting multi-role user management  
-- Implemented secure authentication and SQL-based persistent storage  
-- Designed modular architecture for scalable feature expansion  
 
 ---
 
