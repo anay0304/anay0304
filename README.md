@@ -75,7 +75,7 @@ My focus lies at the intersection of:
 ### 📌 Projects
 
 #### 🧠 AI Nutrition Coach (In Progress)  
-[GitHub](YOUR_REPO_LINK_HERE)
+[GitHub]((https://github.com/anay0304/ai_coaching_platform))
 
 - Building an AI-powered coaching system focused on **real behavior change**, not generic responses  
 - Designing structured prompt systems and curated knowledge base for personalized guidance  
